@@ -71,7 +71,7 @@ export async function generateMetadata({
       type: "article",
       locale: "en_US",
       url: `https://next-cms-blog-ce.vercel.app/${params.slug}`,
-      siteName: "DevBlook",
+      siteName: "MyBlog",
       images: [
         // {
         //   url: post.image,

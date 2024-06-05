@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: Params) {
       type: "website",
       locale: "en_US",
       url: `https://next-cms-blog-ce.vercel.app/${params.slug}`,
-      siteName: "DevBlook",
+      siteName: "MyBlog",
     },
   };
 }
